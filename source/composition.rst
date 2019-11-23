@@ -1,0 +1,7 @@
+Composition
+========================================================
+
+.. toctree::
+ 
+  formvsshape
+  paintingprinciplesapplied

@@ -1,0 +1,6 @@
+Lighting
+=========
+
+.. toctree::
+ 
+  lightingyourpainting
